@@ -81,7 +81,7 @@ int main() {
 
 # OUTPUT
 
-![ex5](ex5.png)
+![image](https://github.com/user-attachments/assets/101d4fbb-06f4-4f83-9966-dc4bfc2423c8)
 
 # RESULT
 The YACC program to recognize the grammar anb where n>=10 is executed successfully and the output is verified.
